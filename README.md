@@ -1,3 +1,5 @@
+test a release verion before building and uploading to the playstore: 'npx expo run:android --variant release' run from your project root
+
 # React-Native-Expo-export-to-android-.aab Windows
 Explains how to export an expo project to a .aab file
 
